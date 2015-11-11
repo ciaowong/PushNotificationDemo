@@ -1,4 +1,4 @@
 # PushNotificationDemo
-iOS客户端推送通知Demo
+iOS客户端推送通知Demo\r\n
 该Demo仅包含注册通知服务返回Token的代码片段
 正确进行证书等一系列配置后真机运行该Demo即可从APNS获得Token
